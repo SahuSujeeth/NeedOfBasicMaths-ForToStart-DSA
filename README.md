@@ -110,5 +110,9 @@ gcd(a, b) = gcd(b, a % b) (until b becomes 0)
 ---
 
 📅 **Day 9 Completed!**
-✨ With Day 9, the **Maths Basics for DSA** are now successfully completed!
+✨ With Day 9, the **Maths Basics for DSA** are now successfully completed!...
+
+---
+Here also i have to revise all the basic of the maths one by one...
+......
 
